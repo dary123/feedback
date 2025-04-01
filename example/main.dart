@@ -1,5 +1,5 @@
 import 'dart:io';
-import 'package:feedback/src/feedback_page.dart';
+import 'package:feedback_sdk/feedback_sdk.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 

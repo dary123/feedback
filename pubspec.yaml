@@ -1,7 +1,7 @@
-name: feedback
+name: feedback_sdk
 description: "feedback page"
 version: 0.0.1
-homepage: https://trican.cn
+homepage: https://github.com/dary123/feedback
 
 environment:
   sdk: ^3.6.0
